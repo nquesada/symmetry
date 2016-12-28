@@ -2,11 +2,11 @@ CC=gcc
 CFLAGS= 
 LDFLAGS=-lm
 
-symmetry.out:symmetry.o
+symmetry.out:symmetry.c
 	$(CC) $(CFLAGS) $^ $(LDFLAGS) -o $@
 
 clean:
-	rm *.o *.*~ *.out
+	rm -rf *.o *.*~ *.out
 
 example:symmetry.out
 	wget http://doye.chem.ox.ac.uk/jon/structures/LJ/points/13
