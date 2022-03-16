@@ -1,3 +1,11 @@
+UPDATE
+======
+The `symmetry` analyzer is now available in this [repo](https://github.com/MBI-Theory/symmetry).
+This is repo corresponds to an outdated version that was created only for archival purposes and scheduled to be deleted.
+
+
+
+
 This brute force symmetry analyzer used to be available at
 [S. Patchkovskii's](https://scholar.google.ca/citations?user=ZfntG90AAAAJ) website http://www.cobalt.chem.ucalgary.ca/ps/symmetry/ which seems to be down.
 Here you can find a copy of the file and a makefile with an example that you can run by typing `make example`.
