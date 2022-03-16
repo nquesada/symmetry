@@ -1,7 +1,7 @@
 UPDATE
 ======
 The `symmetry` analyzer is now available in this [repo](https://github.com/MBI-Theory/symmetry).
-This is repo corresponds to an outdated version that was created only for archival purposes and scheduled to be deleted.
+The repo corresponds to an outdated version that was created only for archival purposes and is scheduled to be deleted.
 
 
 
